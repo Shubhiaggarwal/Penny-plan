@@ -1,6 +1,6 @@
 # Penny Plan
 
-**Penny Plan** is a goal-based savings tracker that helps users save money using the popular "penny challenge" concept — starting small and growing over time.
+**Penny Plan** is a goal-based savings tracker that helps users save money using the popular "penny challenge" concept — starting small and growing over time.  so good for college students 
 
 ---
 
