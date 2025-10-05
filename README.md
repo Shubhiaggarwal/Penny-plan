@@ -18,15 +18,6 @@
 - Frontend: HTML, CSS, JavaScript (or React if you're using it)
 - Backend: Node.js / Express *(if applicable)*
 - Database: MongoDB / Firebase *(if applicable)*
-
----
-
-## 🛠 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) and npm installed
-
 ### Installation
 
 1. Clone the repository:
