@@ -15,8 +15,8 @@
 
 ## 🔧 Tech Stack
 
-- Frontend : React / Flutter (mobile - first UI) 
-- Backend : Node.js / Django (API + logic) 
+- Frontend : React
+- Backend : Node.js
 - Database : Postgre SQL / MongoDB (expense + userdata)
 - AI Engine : Python ML (categorization , predictions ,recommendations) 
 - Security : OAuth 2.0 + AES encryption
